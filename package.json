@@ -1,0 +1,26 @@
+{
+  "name": "stonewine",
+  "version": "1.0.0",
+  "description": "Stonewine application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halbertstone/stonewine.git"
+  },
+  "keywords": [
+    "hapi",
+    "node"
+  ],
+  "author": "HStone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halbertstone/stonewine/issues"
+  },
+  "homepage": "https://github.com/halbertstone/stonewine",
+  "dependencies": {
+    "hapi": "^8.0.0"
+  }
+}
